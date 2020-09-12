@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  font-family: sans-serif;
 }
 
 .App-logo {
@@ -26,7 +27,6 @@
 
 .App-link {
   color: #61dafb;
-  font-family: sans-serif;
 }
 
 @keyframes App-logo-spin {
